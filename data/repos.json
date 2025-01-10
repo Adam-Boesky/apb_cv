@@ -6,91 +6,91 @@
         "edges": [
           {
             "node": {
-              "name": "jax",
-              "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
-              "url": "https://github.com/jax-ml/jax",
-              "homepageUrl": "http://jax.readthedocs.io/",
-              "forkCount": 2845,
+              "name": "astro_SPLASH",
+              "description": "Supernova classification Pipeline Leveraging Attributes of Supernova Hosts (SPLASH): A machine learning pipeline that classifies supernovae by first inferring their host's properties",
+              "url": "https://github.com/Adam-Boesky/astro_SPLASH",
+              "homepageUrl": "",
+              "forkCount": 1,
               "stargazers": {
-                "totalCount": 30882
+                "totalCount": 1
               },
               "watchers": {
-                "totalCount": 336
+                "totalCount": 1
               }
             }
           },
           {
             "node": {
-              "name": "tinygp",
-              "description": "The tiniest of Gaussian Process libraries",
-              "url": "https://github.com/dfm/tinygp",
-              "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 24,
+              "name": "HOOTSim",
+              "description": "N-Body Simulator",
+              "url": "https://github.com/jdinovi/HOOTSim",
+              "homepageUrl": null,
+              "forkCount": 0,
               "stargazers": {
-                "totalCount": 298
+                "totalCount": 2
               },
               "watchers": {
-                "totalCount": 10
+                "totalCount": 1
               }
             }
           },
           {
             "node": {
-              "name": "emcee",
-              "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
-              "url": "https://github.com/dfm/emcee",
-              "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 432,
+              "name": "long_transients",
+              "description": null,
+              "url": "https://github.com/Adam-Boesky/long_transients",
+              "homepageUrl": null,
+              "forkCount": 0,
               "stargazers": {
-                "totalCount": 1481
+                "totalCount": 1
               },
               "watchers": {
-                "totalCount": 86
+                "totalCount": 1
               }
             }
           },
           {
             "node": {
-              "name": "corner.py",
-              "description": "Make some beautiful corner plots",
-              "url": "https://github.com/dfm/corner.py",
-              "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 232,
+              "name": "Exploring_Parameter_Space",
+              "description": null,
+              "url": "https://github.com/Adam-Boesky/Exploring_Parameter_Space",
+              "homepageUrl": null,
+              "forkCount": 0,
               "stargazers": {
-                "totalCount": 523
+                "totalCount": 1
               },
               "watchers": {
-                "totalCount": 19
+                "totalCount": 1
               }
             }
           },
           {
             "node": {
-              "name": "exoplanet",
-              "description": "Fast & scalable MCMC for all your exoplanet needs! ",
-              "url": "https://github.com/exoplanet-dev/exoplanet",
-              "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 52,
+              "name": "Predictive_Coding",
+              "description": null,
+              "url": "https://github.com/Adam-Boesky/Predictive_Coding",
+              "homepageUrl": null,
+              "forkCount": 0,
               "stargazers": {
-                "totalCount": 208
+                "totalCount": 1
               },
               "watchers": {
-                "totalCount": 19
+                "totalCount": 1
               }
             }
           },
           {
             "node": {
-              "name": "daft",
-              "description": "Render probabilistic graphical models using matplotlib",
-              "url": "https://github.com/daft-dev/daft",
-              "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 118,
+              "name": "RL_CMAES",
+              "description": null,
+              "url": "https://github.com/Adam-Boesky/RL_CMAES",
+              "homepageUrl": null,
+              "forkCount": 0,
               "stargazers": {
-                "totalCount": 675
+                "totalCount": 1
               },
               "watchers": {
-                "totalCount": 17
+                "totalCount": 1
               }
             }
           }

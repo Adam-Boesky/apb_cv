@@ -1,4 +1,4 @@
-# Dan Foreman-Mackey's CV
+# Adam Boesky's CV
 
 ### Read my CV as a [PDF](https://raw.githubusercontent.com/dfm/cv/main-pdf/tex/cv_pubs.pdf) or [scroll down to see it in Markdown](https://github.com/dfm/cv#daniel-foreman-mackey).
 

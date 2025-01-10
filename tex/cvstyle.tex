@@ -1,3 +1,15 @@
+% ----- Packages -----
+\usepackage[margin=1in]{geometry}    % Page margins
+\usepackage{enumitem}               % Customizable lists
+\usepackage{hyperref}               % Hyperlinks in PDF
+\usepackage{setspace}               % Line spacing (optional)
+\usepackage{fontawesome5}
+\usepackage{xcolor}                 % Text color
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec}
+% ----- Document Start -----
+
 \usepackage{color}
 \usepackage{fancyhdr}
 \usepackage{hyperref}
@@ -9,6 +21,7 @@
 % Link formatting.
 \definecolor{numcolor}{rgb}{0.5,0.5,0.5}
 \definecolor{linkcolor}{rgb}{0,0,0.4}
+\definecolor{niceblue}{HTML}{538acf}
 \hypersetup{%
     colorlinks=true,        % false: boxed links; true: colored links
     linkcolor=linkcolor,    % color of internal links
@@ -36,7 +49,7 @@
 
 \titleformat{\subsection}
 {\normalfont\sffamily\large\bfseries}
-{}{0pt}{}
+{}{0pt}{}[\vspace{-15pt} \enspace \leaders\hrule height 0.4pt \hfill\kern0pt]
 
 \titleformat{\subsubsection}
 {\normalfont\sffamily\bfseries}
@@ -45,7 +58,17 @@
 \titlespacing{\subsection}{0pt}{2\parskip}{0pt}
 \titlespacing{\subsubsection}{0pt}{\parskip}{0pt}
 
-\newcommand{\cvheading}[1]{\addvspace{1ex}\pagebreak[2]\par\textbf{#1}\nopagebreak\vspace{-0.4em}}
+\newcommand{\cvheading}[1]{%
+  \addvspace{1ex}%
+  \pagebreak[2]%
+  \par\noindent
+  % Print the heading text
+  \textbf{#1}\enspace
+  % Insert a rule that fills all remaining horizontal space
+  \leaders\hrule height 0.4pt \hfill\kern0pt
+  \nopagebreak
+  \vspace{-0.4em}%
+}
 
 % Set up the custom unordered list.
 \newcounter{refpubnum}
@@ -61,6 +84,12 @@
     \settowidth{\labelsep}{~}
     \usecounter{refpubnum}
 }
+
+% Set up the custom bullet list for descriptions.
+\newlist{bulletdescription}{itemize}{2}
+\setlist[bulletdescription]{noitemsep, topsep=-5pt, parsep=0pt, partopsep=0pt, leftmargin=0.25in}
+\setlist[bulletdescription,1]{label=$\bullet$}
+\setlist[bulletdescription,2]{label=$\circ$}
 
 % Margins and spaces.
 \raggedright
@@ -78,7 +107,7 @@
 % Headings and footings.
 \renewcommand{\headrulewidth}{0pt}
 \pagestyle{fancy}
-\lhead{\deemph{Daniel Foreman-Mackey}}
+\lhead{\deemph{Adam Boesky}}
 \chead{\deemph{Curriculum Vitae}}
 \rhead{\deemph{\thepage}}
 \cfoot{\deemph{Last updated: \today}}
