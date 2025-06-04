@@ -81,12 +81,16 @@ def format_pub(args):
 def format_repo(repo):
     repo = repo["node"]
     for k in ["name", "description"]:
-        repo[k] = utf8totex.utf8totex(repo[k])
+        # Convert None to empty string for description
+        value = repo[k] if repo[k] is not None else ""
+        repo[k] = utf8totex.utf8totex(value)
     txt = "\\item \\href{{{repo[url]}}}{{{{\\bf {repo[name]}}}}} --- "
     txt += "{repo[stargazers][totalCount]} stars / "
     txt += "{repo[forkCount]} forks \\\\\n"
     txt += "{repo[description]} "
-    txt += "\\href{{{repo[homepageUrl]}}}{{[docs]}}"
+    # Only add docs link if homepageUrl exists and is not empty
+    if repo["homepageUrl"]:
+        txt += "\\href{{{repo[homepageUrl]}}}{{[docs]}}"
     txt = txt.format(repo=repo)
     return txt
 

@@ -1,12 +1,70 @@
 [
   {
+    "arxiv": "2506.00757",
+    "authors": [
+      "Schuetz, Ann-Kathrin",
+      "Migala, Alexander",
+      "Boesky, Adam",
+      "Poon, Alan W. P.",
+      "Broekgaarden, Floor S.",
+      "Li, Aobo"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-06-00",
+    "title": "RESOLVE: Rare Event Surrogate Likelihood for Gravitational Wave Paleontology Parameter Estimation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250600757S",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": "2506.00121",
+    "authors": [
+      "Boesky, Adam",
+      "Villar, V. Ashley",
+      "Gagliano, Alexander",
+      "Hsu, Brian"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-05-00",
+    "title": "SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field Time-Domain Surveys",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250600121B",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Boesky, Adam",
+      "Villar, Victoria",
+      "Hsu, Brian"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2025-01-00",
+    "title": "SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field Time-Domain Surveys",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AAS...24535404B",
+    "volume": "245",
+    "year": "2025"
+  },
+  {
     "arxiv": "2405.01630",
     "authors": [
       "Boesky, Adam P.",
       "Broekgaarden, Floor S.",
       "Berger, Edo"
     ],
-    "citations": 6,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad7fe3",
     "page": 24,
@@ -33,6 +91,24 @@
     "title": "The Binary Black Hole Merger Rate Deviates from the Cosmic Star Formation Rate: A Tug of War between Metallicity and Delay Times",
     "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...976...23B",
     "volume": "976",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Boesky, Adam",
+      "Broekgaarden, Floor",
+      "Berger, Edo"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "APS April Meeting Abstracts",
+    "pubdate": "2024-04-00",
+    "title": "The Binary Black Hole Merger Rate Deviates from a Simple Delayed Cosmic Star Formation Rate: The Impact of Metallicity and Delay Times",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024APS..APRS12003B",
+    "volume": "2024",
     "year": "2024"
   }
 ]
