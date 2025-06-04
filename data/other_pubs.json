@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "arxiv": null,
+    "authors": [
+      "Li, Chenguang",
+      "Brenner, Jonah",
+      "Boesky, Adam",
+      "Ramanathan, Sharad",
+      "Kreiman, Gabriel"
+    ],
+    "citations": 1,
+    "doctype": "preprint",
+    "doi": "10.1101/2024.05.22.595306",
+    "page": null,
+    "pub": "bioRxiv",
+    "pubdate": "2024-05-22",
+    "title": "Neuron-level Prediction and Noise can Implement Flexible Reward-Seeking Behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8cQgOIIAAAAJ&sortby=title&citation_for_view=8cQgOIIAAAAJ:9yKSN-GCB0IC",
+    "volume": null,
+    "year": "2024"
+  }
+]

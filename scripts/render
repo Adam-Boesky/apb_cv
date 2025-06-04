@@ -100,6 +100,7 @@ if __name__ == "__main__":
         pubs = json.load(f)
     with open("data/other_pubs.json", "r") as f:
         other_pubs = json.load(f)
+    print('TEST', other_pubs)
     with open("data/select_pubs.json", "r") as f:
         select_pubs = json.load(f)
     for p in other_pubs:
@@ -114,12 +115,18 @@ if __name__ == "__main__":
         p
         for p in pubs
         if (
-            p["doctype"] in ["article", "eprint"]
+            p["doctype"] in ["article", "eprint", "preprint"]
             and p["pub"] != "Zenodo Software Release"
         )
     ]
+    print('HERE ARE PUBS')
+    for p in pubs:
+        print(p['title'], p['doctype'])
     ref = [p for p in pubs if p["doctype"] == "article"]
-    unref = [p for p in pubs if p["doctype"] == "eprint"]
+    unref = [p for p in pubs if p["doctype"] in ["eprint", "preprint"]]
+    print('HERE ARE UNREF')
+    for p in unref:
+        print(p['title'], p['doctype'])
 
     # Compute citation stats
     npapers = len(ref)

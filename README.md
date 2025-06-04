@@ -151,7 +151,7 @@ forks
 
 ## Publications
 
-refereed: 2 / first author: 3 / citations: 16 / h-index: 2 (2025-06-03)
+refereed: 2 / first author: 3 / citations: 17 / h-index: 2 (2025-06-04)
 
 ### Refereed publications
 
@@ -181,6 +181,10 @@ citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...23B)\]
 <div class="list">
 
 
+Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; Brcek, Adam; *et al.*,
+2025, Rapid stellar and binary population synthesis with COMPAS: methods
+paper II, ArXiv ([arXiv:2506.02316](http://arxiv.org/abs/2506.02316))
+
 Schuetz, Ann-Kathrin; Migala, Alexander; **Boesky, Adam**; Poon, Alan W.
 P.; *et al.*, 2025, RESOLVE: Rare Event Surrogate Likelihood for
 Gravitational Wave Paleontology Parameter Estimation, ArXiv
@@ -190,6 +194,11 @@ Gravitational Wave Paleontology Parameter Estimation, ArXiv
 2025, SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field
 Time-Domain Surveys, ArXiv
 ([arXiv:2506.00121](http://arxiv.org/abs/2506.00121))
+
+Li, Chenguang; Brenner, Jonah; **Boesky, Adam**; Ramanathan, Sharad; &
+Kreiman, Gabriel, 2024, *[Neuron-level Prediction and Noise can
+Implement Flexible Reward-Seeking
+Behavior](http://dx.doi.org/10.1101/2024.05.22.595306)*, bioRxiv
 
 </div>
 

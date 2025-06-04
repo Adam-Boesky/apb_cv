@@ -1,5 +1,36 @@
 [
   {
+    "arxiv": "2506.02316",
+    "authors": [
+      "Mandel, Ilya",
+      "Riley, Jeff",
+      "Boesky, Adam",
+      "Brcek, Adam",
+      "Hirai, Ryosuke",
+      "Kapil, Veome",
+      "Lau, Mike Y. M.",
+      "Merritt, JD",
+      "Rodr{\\'\\i}guez-Segovia, Nicol{\\'a}s",
+      "Romero-Shaw, Isobel",
+      "Song, Yuzhe",
+      "Stevenson, Simon",
+      "Vajpeyi, Avi",
+      "van Son, L. A. C.",
+      "Vigna-G{\\'o}mez, Alejandro",
+      "Willcox, Reinhold"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-06-00",
+    "title": "Rapid stellar and binary population synthesis with COMPAS: methods paper II",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250602316M",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2506.00757",
     "authors": [
       "Schuetz, Ann-Kathrin",
