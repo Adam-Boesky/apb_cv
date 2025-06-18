@@ -278,7 +278,7 @@ Giant Magellan Telescope 2022 Science Meeting, Sedona, AZ
 
 </div>
 
-## Skill & Interests
+## Skills & Interests
 
 <div class="list">
 
