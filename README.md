@@ -38,32 +38,6 @@ Dynamical Systems
 
 ## Professional & Research Experience
 
-## SpaceX
-
- *<span style="color: gray">Los Angeles, CA</span>
-<span style="color: niceblue">Summers 2023, 2024</span>*  
-*Guidance, Navigation, & Control Engineering Intern*
-
-<div class="bulletdescription">
-
-Developed physical and empirical models for high-fidelity Monte Carlo
-simulation of the Falcon rocket
-
-Drove operational changes to promote launch vehicle reliability and
-performance
-
-Automated day of launch operations and implemented tools to accelerate
-launch cadence
-
-<div class="bulletdescription">
-
-Conducted study to assess the value of mission-specific analyses
-required for launch
-
-</div>
-
-</div>
-
 ## Center for Astrophysics \| Harvard & Smithsonian
 
 
@@ -93,6 +67,32 @@ using their inferred host galaxy’s properties; preliminary website
 
 </div>
 
+## SpaceX
+
+ *<span style="color: gray">Los Angeles, CA</span>
+<span style="color: niceblue">Summers 2023, 2024</span>*  
+*Guidance, Navigation, & Control Engineering Intern*
+
+<div class="bulletdescription">
+
+Developed physical and empirical models for high-fidelity Monte Carlo
+simulation of the Falcon rocket
+
+Drove operational changes to promote launch vehicle reliability and
+performance
+
+Automated day of launch operations and implemented tools to accelerate
+launch cadence
+
+<div class="bulletdescription">
+
+Conducted study to assess the value of mission-specific analyses
+required for launch
+
+</div>
+
+</div>
+
 ## Harvard School of Engineering & Applied Sciences
 
 
@@ -103,7 +103,7 @@ using their inferred host galaxy’s properties; preliminary website
 <div class="bulletdescription">
 
 Developed a biologically-realizable computational architecture for basic
-intelligence; publication 4
+intelligence
 
 </div>
 
@@ -121,7 +121,7 @@ education, health, and housing data
 
 </div>
 
-## Open-source software
+## Open-Source Software
 
 <div class="list">
 
@@ -199,7 +199,7 @@ citation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=
 
 </div>
 
-## Teaching & mentorship
+## Teaching & Mentorship
 
 <div class="list">
 
@@ -217,7 +217,27 @@ of projects including the following:
 **High schoolers:** Khushi Karthikeyan (Mar 2024 — Present), Meera
 Desawale (Jul 2024 — Present), Daniel Garrett-Metz (Apr 2021 — Jun 2021)
 
-## Talks & presentations
+## Honors, Awards, and Fellowships
+
+<div class="list">
+
+
+*Honorable Mention* NSF Graduate Research Funding Program, 2025
+
+*Finalist* Hertz Fellowship, 2025
+
+*Finalist* Rhodes Scholarship, 2025
+
+*Finalist* Marshall Scholarship, 2025
+
+Harvard Program for Research in Science and Engineering Fellow (\$5000),
+2022
+
+Harvard College Research Program Fellow (\$1000), 2022
+
+</div>
+
+## Talks & Presentations
 
 <div class="list">
 
@@ -258,37 +278,24 @@ Giant Magellan Telescope 2022 Science Meeting, Sedona, AZ
 
 </div>
 
-## Honors, Awards, and Fellowships
+## Skill & Interests
 
 <div class="list">
 
 
-*Honorable Mention* NSF Graduate Research Funding Program, 2025
+## Programming:
 
-*Finalist* Hertz Fellowship, 2025
+ (Expert) Python, C++, Java, Mathematica, JavaScript,
+SQL (Intermediate) R (Familiar) Julia
 
-*Finalist* Rhodes Scholarship, 2025
+## Software:
 
-*Finalist* Marshall Scholarship, 2025
+ Git/GitHub (\>500 contributions, 20 repositories), Slurm,
+LaTeX, Linux, Bash, SAOImage DS9
 
-Harvard Program for Research in Science and Engineering Fellow (\$5000),
-2022
+## Miscellaneous:
 
-Harvard College Research Program Fellow (\$1000), 2022
-
-</div>
-
-## Professional service & activities
-
-<div class="list">
-
-
-Associate Editor-in-Chief — Journal of Open Source Software
-
-Active Referee — AAS Journals, MNRAS, PASP, A&A, Journal of Statistical
-Software, Journal on Uncertainty Quantification, Journal of Open Source
-Software
-
-Panelist — NSF, NASA, LSSTC
+ Billiards, powerlifting, running, mixology, knitting,
+mountaineering, skiing, surfing, foosball
 
 </div>
