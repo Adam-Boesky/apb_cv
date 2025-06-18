@@ -21,6 +21,36 @@
           },
           {
             "node": {
+              "name": "COMPAS",
+              "description": "COMPAS rapid binary population synthesis code",
+              "url": "https://github.com/TeamCOMPAS/COMPAS",
+              "homepageUrl": "http://compas.science",
+              "forkCount": 72,
+              "stargazers": {
+                "totalCount": 72
+              },
+              "watchers": {
+                "totalCount": 12
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "long_transients",
+              "description": "Finding long-duration transient candidates",
+              "url": "https://github.com/Adam-Boesky/long_transients",
+              "homepageUrl": "",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 1
+              },
+              "watchers": {
+                "totalCount": 1
+              }
+            }
+          },
+          {
+            "node": {
               "name": "HOOTSim",
               "description": "N-Body Simulator",
               "url": "https://github.com/jdinovi/HOOTSim",
@@ -36,13 +66,13 @@
           },
           {
             "node": {
-              "name": "long_transients",
-              "description": null,
-              "url": "https://github.com/Adam-Boesky/long_transients",
-              "homepageUrl": null,
+              "name": "RL_CMAES",
+              "description": "Implementing the covariance matrix adaptation evolution strategy in a reinforcement learning framework",
+              "url": "https://github.com/Adam-Boesky/RL_CMAES",
+              "homepageUrl": "",
               "forkCount": 0,
               "stargazers": {
-                "totalCount": 1
+                "totalCount": 0
               },
               "watchers": {
                 "totalCount": 1
@@ -52,39 +82,9 @@
           {
             "node": {
               "name": "Exploring_Parameter_Space",
-              "description": null,
+              "description": "Investigating the redshift evolution of the compact object merger rate",
               "url": "https://github.com/Adam-Boesky/Exploring_Parameter_Space",
-              "homepageUrl": null,
-              "forkCount": 0,
-              "stargazers": {
-                "totalCount": 1
-              },
-              "watchers": {
-                "totalCount": 1
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "Predictive_Coding",
-              "description": null,
-              "url": "https://github.com/Adam-Boesky/Predictive_Coding",
-              "homepageUrl": null,
-              "forkCount": 0,
-              "stargazers": {
-                "totalCount": 1
-              },
-              "watchers": {
-                "totalCount": 1
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "RL_CMAES",
-              "description": null,
-              "url": "https://github.com/Adam-Boesky/RL_CMAES",
-              "homepageUrl": null,
+              "homepageUrl": "",
               "forkCount": 0,
               "stargazers": {
                 "totalCount": 1

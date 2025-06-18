@@ -97,7 +97,7 @@ using their inferred host galaxy’s properties; preliminary website
 
 
 *<span style="color: gray">Cambridge, MA</span>*  
-*Ramanathan Lab* *<span style="color: niceblue">Jan 2023 – July
+*Ramanathan Lab* *<span style="color: niceblue">Jan 2023 – Jul
 2024</span>*
 
 <div class="bulletdescription">
@@ -107,7 +107,7 @@ intelligence; publication 4
 
 </div>
 
-*Harvard C3 Policing Research Team* *<span style="color: niceblue">June
+*Harvard C3 Policing Research Team* *<span style="color: niceblue">Jun
 2020 – Aug 2022</span>*
 
 <div class="bulletdescription">
@@ -121,37 +121,31 @@ education, health, and housing data
 
 </div>
 
-## Popular open-source software
+## Open-source software
 
 <div class="list">
 
 
-[**astro\_SPLASH**](https://github.com/Adam-Boesky/astro_SPLASH) — 1
-stars / 1 forks  
+[**astro\_SPLASH**](https://github.com/Adam-Boesky/astro_SPLASH) — *Lead
+Developer* (1 stars / 1 forks)  
 Supernova classification Pipeline Leveraging Attributes of Supernova
 Hosts (SPLASH): A machine learning pipeline that classifies supernovae
 by first inferring their host’s properties
 
-[**HOOTSim**](https://github.com/jdinovi/HOOTSim) — 2 stars / 0 forks  
+[**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (72
+stars / 72 forks)  
+COMPAS rapid binary population synthesis code
+[\[docs\]](http://compas.science)
+
+[**HOOTSim**](https://github.com/jdinovi/HOOTSim) — *Lead Developer* (2
+stars / 0 forks)  
 N-Body Simulator
-
-[**long\_transients**](https://github.com/Adam-Boesky/long_transients) —
-1 stars / 0 forks  
-
-[**Exploring\_Parameter\_Space**](https://github.com/Adam-Boesky/Exploring_Parameter_Space)
-— 1 stars / 0 forks  
-
-[**Predictive\_Coding**](https://github.com/Adam-Boesky/Predictive_Coding)
-— 1 stars / 0 forks  
-
-[**RL\_CMAES**](https://github.com/Adam-Boesky/RL_CMAES) — 1 stars / 0
-forks  
 
 </div>
 
 ## Publications
 
-refereed: 2 / first author: 3 / citations: 17 / h-index: 2 (2025-06-04)
+refereed: 2 / first author: 3 / citations: 18 / h-index: 2 (2025-06-18)
 
 ### Refereed publications
 
@@ -171,7 +165,7 @@ Binary Black Hole Merger Rate Deviates from the Cosmic Star Formation
 Rate: A Tug of War between Metallicity and Delay
 Times](http://dx.doi.org/10.3847/1538-4357/ad7fe4)*, The Astrophysical
 Journal, **976**, 23
-([arXiv:2405.01623](http://arxiv.org/abs/2405.01623)) \[[7
+([arXiv:2405.01623](http://arxiv.org/abs/2405.01623)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...23B)\]
 
 </div>
@@ -182,132 +176,85 @@ citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...23B)\]
 
 
 Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; Brcek, Adam; *et al.*,
-2025, Rapid stellar and binary population synthesis with COMPAS: methods
-paper II, ArXiv ([arXiv:2506.02316](http://arxiv.org/abs/2506.02316))
+2025, *[Rapid stellar and binary population synthesis with COMPAS:
+methods paper II](http://dx.doi.org/10.48550/arXiv.2506.02316)*, ArXiv
+([arXiv:2506.02316](http://arxiv.org/abs/2506.02316))
 
 Schuetz, Ann-Kathrin; Migala, Alexander; **Boesky, Adam**; Poon, Alan W.
-P.; *et al.*, 2025, RESOLVE: Rare Event Surrogate Likelihood for
-Gravitational Wave Paleontology Parameter Estimation, ArXiv
+P.; *et al.*, 2025, *[RESOLVE: Rare Event Surrogate Likelihood for
+Gravitational Wave Paleontology Parameter
+Estimation](http://dx.doi.org/10.48550/arXiv.2506.00757)*, ArXiv
 ([arXiv:2506.00757](http://arxiv.org/abs/2506.00757))
 
 **Boesky, Adam**; Villar, V. Ashley; Gagliano, Alexander; & Hsu, Brian,
-2025, SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field
-Time-Domain Surveys, ArXiv
-([arXiv:2506.00121](http://arxiv.org/abs/2506.00121))
+2025, *[SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field
+Time-Domain Surveys](http://dx.doi.org/10.48550/arXiv.2506.00121)*,
+ArXiv ([arXiv:2506.00121](http://arxiv.org/abs/2506.00121))
 
 Li, Chenguang; Brenner, Jonah; **Boesky, Adam**; Ramanathan, Sharad; &
 Kreiman, Gabriel, 2024, *[Neuron-level Prediction and Noise can
 Implement Flexible Reward-Seeking
-Behavior](http://dx.doi.org/10.1101/2024.05.22.595306)*, bioRxiv
+Behavior](http://dx.doi.org/10.1101/2024.05.22.595306)*, bioRxiv \[[1
+citation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8cQgOIIAAAAJ&sortby=title&citation_for_view=8cQgOIIAAAAJ:9yKSN-GCB0IC)\]
 
 </div>
 
-## Mentorship
-
-I collaborate with and mentor many students and postdocs, often on a
-single project. Below is a list of the group members who I have formally
-mentored as part of the Flatiron Research Fellowship and Pre-doctoral
-Fellowship at the Center for Computational Astrophysics.
+## Teaching & mentorship
 
 <div class="list">
 
 
-*Current postdocs:* Thavisha Dharmawardena, Jiayin Dong, Nora Eisner,
-Lionel Garcia, Joseph Long.
+*Teaching Assistant* — Harvard Physics 143a: Quantum Mechanics I
+<span style="color: niceblue">Spring 2024</span>
 
-*Current students:* Quadry Chance, Soichiro Hattori.
-
-*Former postdocs:* Megan Bedell, Trevor David, Rodrigo Luger.
-
-*Former students:* Fran Bartolić, Eoin Farrell, Alex Gagliano, Karl
-Jaehnig, Gautam Nagaraj, Pa Chia Thao, Nhat Quang Hoang Tran.
+*Teaching Assistant* — Harvard Physics 12b: Electromagnetism and
+Statistical Physics <span style="color: niceblue">Fall 2023</span>
 
 </div>
 
-## Selected invited talks & tutorials
+I am currently mentoring and have mentored several students on a variety
+of projects including the following:  
+**High schoolers:** Khushi Karthikeyan (Mar 2024 — Present), Meera
+Desawale (Jul 2024 — Present), Daniel Garrett-Metz (Apr 2021 — Jun 2021)
+
+## Talks & presentations
 
 <div class="list">
 
 
-*Open software for Astrophysics*, 2023, Invited Plenary, 241st AAS
-Meeting, Seattle.
+## Oral
 
-*Gaussian Processes for EPRV*, 2022, Invited Tutorial, University of
-Oxford, UK.
 
-*Methods for scalable probabilistic inference*, 2022, Colloquium,
-University of Illinois Urbana-Champaign.  
-2022, Colloquium, UC Berkeley.  
-2022, Colloquium, University of Oxford, UK.  
-2021, Invited Talk, Institute for Pure & Applied Mathematics, UCLA.
 
-*Advanced probabilistic modeling*, 2021, Tutorial, Harley Wood Winter
-School of Astronomy, Australia.
+<div class="bulletdescription">
 
-*Open-source software for probabilistic data analysis in astronomy*,
-2021, Seminar, Instituto de Astrofísica, Portugal.
+Orange County Astronomers, Orange, CA *Upcoming*
+<span style="color: niceblue">Jan 2026</span>
 
-*Gaussian processes & stellar variability*, 2021, Seminar, CARMENES Team
-Meeting.
+American Physical Society April Meeting, Sacramento, CA
+<span style="color: niceblue">Apr 2024</span>
 
-*Extending JAX with custom C++ & CUDA*, 2021, Invited Talk, IRIS-HEP
-Topical Meeting, CERN.
+Post-Pax-VIII, Cambridge, MA <span style="color: niceblue">Aug
+2022</span>
 
-*Open source software for probabilistic data analysis*, 2020, Invited
-Talk, OzGrav Early Career Researcher Symposium, Australia.
+</div>
 
-*The why & how of exoplanet, a domain-specific PyMC3 extension*, 2020,
-Contributed Talk, PyMC Con.
+## Poster
 
-*A modular ecosystem for probabilistic data analysis*, 2019, Invited
-Talk, Open Digital Infrastructure in Astronomy conference, Kavli
-Institute for Theoretical Physics.
 
-*Exoplanet population inference, a tutorial*, 2019, Invited Talk,
-Exostar19 conference, Kavli Institute for Theoretical Physics.
 
-*Astronomy as a testbed for statistical method development*, 2019,
-Colloquium, Center for Statistics and Machine Learning, Princeton.
+<div class="bulletdescription">
 
-*Data-driven discovery in the astronomical time domain*, 2018,
-Colloquium, Institute for Theory and Computation, Harvard-Smithsonian
-Center for Astrophysics.  
-2018, Colloquium, University of California, Santa Cruz.  
-2017, Interdisciplinary Colloquium, CIERA, Northwestern University.
+American Astronomical Society Meeting, National Harbor, MD
+<span style="color: niceblue">Jan 2025</span>
 
-*A practical introduction to Gaussian Processes for astronomy*, 2017,
-Invited Talk, Statistical Challenges in Astrophysics, University of New
-South Wales, Australia.
+Computational and Systems Neuroscience, Lisbon, Portugal
+<span style="color: niceblue">Mar 2024</span>
 
-*Long-period transiting planets & their population*, 2016, Invited talk,
-Exoplanets I, Davos.  
-2016, Invited talk, Statistical Challenges of Modern Astrophysics,
-Carnegie Mellon.  
-2016, Colloquium, Villanova.
+Giant Magellan Telescope 2022 Science Meeting, Sedona, AZ
+<span style="color: niceblue">Sep 2022</span>
 
-*Scalable Gaussian processes & the search for transiting exoplanets*,
-2015, Data Science at the LHC, CERN, Geneva.
-
-*Discovery & characterization of transiting exoplanets & their
-population*, 2015, Colloquium, University of Washington.
-
-*Hierarchical inference for exoplanet population inference*, 2015, IAU
-Symposium, Honolulu.
-
-*Data-driven models*, 2015, Extreme precision radial velocities, Yale.
-
-*Population inference from noisy & incomplete catalogs*, 2015, Local
-Group Astrostatistics, University of Michigan.
-
-*Time series analysis, Gaussian Processes, and the search for
-exo-Earths*, 2014, PyData NYC conference, New York.
-
-*Introduction to Gaussian Processes, probabilistic graphical models, and
-deep learning*, 2014, Astro Hack Week, University of Washington.
-
-*An astronomer’s introduction to Gaussian processes*, 2014, Bayesian
-Computing for Astronomical Data Analysis (Summer school at Penn State
-University).
+</div>
 
 </div>
 
@@ -324,8 +271,8 @@ University).
 
 *Finalist* Marshall Scholarship, 2025
 
-Harvard Program for Research in Science and Engineering Fellow (\$5000)
-Summer 2022
+Harvard Program for Research in Science and Engineering Fellow (\$5000),
+2022
 
 Harvard College Research Program Fellow (\$1000), 2022
 

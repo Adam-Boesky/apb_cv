@@ -74,19 +74,26 @@ def format_pub(args):
 
     if pub["citations"] > 1:
         fmt += " [\\href{{{0}}}{{{1} citations}}]".format(pub["url"], pub["citations"])
+    elif pub["citations"] == 1:
+        fmt += " [\\href{{{0}}}{{{1} citation}}]".format(pub["url"], pub["citations"]) 
 
     return fmt
 
 
 def format_repo(repo):
-    repo = repo["node"]
+    if 'node' in repo:
+        repo = repo["node"]
+    if 'name' in repo:
+        repo['name'] = repo['name'].replace('{\\_}', '_')
     for k in ["name", "description"]:
         # Convert None to empty string for description
         value = repo[k] if repo[k] is not None else ""
         repo[k] = utf8totex.utf8totex(value)
     txt = "\\item \\href{{{repo[url]}}}{{{{\\bf {repo[name]}}}}} --- "
-    txt += "{repo[stargazers][totalCount]} stars / "
-    txt += "{repo[forkCount]} forks \\\\\n"
+    if 'role' in repo:
+        txt += "\\textit{{{repo[role]}}} "
+    txt += "({repo[stargazers][totalCount]} stars / "
+    txt += "{repo[forkCount]} forks) \\\\\n"
     txt += "{repo[description]} "
     # Only add docs link if homepageUrl exists and is not empty
     if repo["homepageUrl"]:
@@ -100,7 +107,6 @@ if __name__ == "__main__":
         pubs = json.load(f)
     with open("data/other_pubs.json", "r") as f:
         other_pubs = json.load(f)
-    print('TEST', other_pubs)
     with open("data/select_pubs.json", "r") as f:
         select_pubs = json.load(f)
     for p in other_pubs:
@@ -119,12 +125,10 @@ if __name__ == "__main__":
             and p["pub"] != "Zenodo Software Release"
         )
     ]
-    print('HERE ARE PUBS')
     for p in pubs:
         print(p['title'], p['doctype'])
     ref = [p for p in pubs if p["doctype"] == "article"]
     unref = [p for p in pubs if p["doctype"] in ["eprint", "preprint"]]
-    print('HERE ARE UNREF')
     for p in unref:
         print(p['title'], p['doctype'])
 
@@ -174,6 +178,20 @@ if __name__ == "__main__":
     # Write the repo info
     with open("data/repos.json", "r") as f:
         repos = json.load(f)
+    with open("data/select_repos.json", "r") as f:
+        select_repos = json.load(f)
     repos = repos["data"]["user"]["pinnedItems"]["edges"]
     with open("tex/repos.tex", "w") as f:
         f.write("\n\n".join(map(format_repo, repos)))
+    selected_repos = []
+    print('HEREEE:', select_repos)
+    for s in select_repos:
+        for repo in repos:
+            repo = repo["node"]
+            repo_name = repo['name'].replace('{\\_}', '_')
+            if repo_name == s["name"]:
+                repo['role'] = s["role"]
+                selected_repos.append(repo)
+                break
+    with open("tex/repos_select.tex", "w") as f:
+        f.write("\n\n".join(map(format_repo, selected_repos)))
