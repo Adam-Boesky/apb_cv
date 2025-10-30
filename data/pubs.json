@@ -2,14 +2,15 @@
   {
     "arxiv": "2506.02316",
     "authors": [
+      "Team Compas",
       "Mandel, Ilya",
       "Riley, Jeff",
       "Boesky, Adam",
-      "Brcek, Adam",
+      "Br{\\v{c}}ek, Adam",
       "Hirai, Ryosuke",
       "Kapil, Veome",
       "Lau, Mike Y. M.",
-      "Merritt, JD",
+      "Merritt, Jd",
       "Rodr{\\'\\i}guez-Segovia, Nicol{\\'a}s",
       "Romero-Shaw, Isobel",
       "Song, Yuzhe",
@@ -19,14 +20,33 @@
       "Vigna-G{\\'o}mez, Alejandro",
       "Willcox, Reinhold"
     ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2506.02316",
+    "citations": 4,
+    "doctype": "article",
+    "doi": "10.3847/1538-4365/adf8d0",
+    "page": 43,
+    "pub": "The Astrophysical Journal Supplement Series",
+    "pubdate": "2025-09-00",
+    "title": "Rapid Stellar and Binary Population Synthesis with COMPAS: Methods Paper II",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T",
+    "volume": "280",
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Gagliano, Alex",
+      "de Soto, Kaylee",
+      "Boesky, Adam",
+      "Manning, T. Andrew"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.15635013",
     "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-06-00",
-    "title": "Rapid stellar and binary population synthesis with COMPAS: methods paper II",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250602316M",
+    "pub": "Zenodo",
+    "pubdate": "2025-06-10",
+    "title": "alexandergagliano/Prost: v1.2.12",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025zndo..15635013G",
     "volume": null,
     "year": "2025"
   },
@@ -40,7 +60,7 @@
       "Broekgaarden, Floor S.",
       "Li, Aobo"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2506.00757",
     "page": null,
@@ -52,6 +72,25 @@
     "year": "2025"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Gagliano, Alex",
+      "de Soto, Kaylee",
+      "Boesky, Adam",
+      "Manning, T. Andrew"
+    ],
+    "citations": 4,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.15397886",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2025-05-13",
+    "title": "alexandergagliano/Prost: v1.2.11",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025zndo..15397886G",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2506.00121",
     "authors": [
       "Boesky, Adam",
@@ -59,7 +98,7 @@
       "Gagliano, Alexander",
       "Hsu, Brian"
     ],
-    "citations": 0,
+    "citations": 4,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2506.00121",
     "page": null,
@@ -81,7 +120,7 @@
     "doctype": "abstract",
     "doi": null,
     "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts",
+    "pub": "American Astronomical Society Meeting Abstracts #245",
     "pubdate": "2025-01-00",
     "title": "SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field Time-Domain Surveys",
     "url": "https://ui.adsabs.harvard.edu/abs/2025AAS...24535404B",
@@ -95,7 +134,7 @@
       "Broekgaarden, Floor S.",
       "Berger, Edo"
     ],
-    "citations": 9,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad7fe3",
     "page": 24,
@@ -113,7 +152,7 @@
       "Broekgaarden, Floor S.",
       "Berger, Edo"
     ],
-    "citations": 8,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad7fe4",
     "page": 23,

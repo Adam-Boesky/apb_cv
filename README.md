@@ -132,8 +132,8 @@ Supernova classification Pipeline Leveraging Attributes of Supernova
 Hosts (SPLASH): A machine learning pipeline that classifies supernovae
 by first inferring their host’s properties
 
-[**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (72
-stars / 72 forks)  
+[**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (79
+stars / 75 forks)  
 COMPAS rapid binary population synthesis code
 [\[docs\]](http://compas.science)
 
@@ -145,19 +145,26 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 2 / first author: 3 / citations: 18 / h-index: 2 (2025-06-18)
+refereed: 3 / first author: 3 / citations: 37 / h-index: 4 (2025-10-29)
 
 ### Refereed publications
 
 <div class="list">
 
 
+Team Compas; Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; *et al.*,
+2025, *[Rapid Stellar and Binary Population Synthesis with COMPAS:
+Methods Paper II](http://dx.doi.org/10.3847/1538-4365/adf8d0)*, The
+Astrophysical Journal Supplement Series, **280**, 43
+([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[4
+citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T)\]
+
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024,
 *[Investigating the Cosmological Rate of Compact Object Mergers from
 Isolated Massive Binary
 Stars](http://dx.doi.org/10.3847/1538-4357/ad7fe3)*, The Astrophysical
 Journal, **976**, 24
-([arXiv:2405.01630](http://arxiv.org/abs/2405.01630)) \[[9
+([arXiv:2405.01630](http://arxiv.org/abs/2405.01630)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...24B)\]
 
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024, *[The
@@ -165,7 +172,7 @@ Binary Black Hole Merger Rate Deviates from the Cosmic Star Formation
 Rate: A Tug of War between Metallicity and Delay
 Times](http://dx.doi.org/10.3847/1538-4357/ad7fe4)*, The Astrophysical
 Journal, **976**, 23
-([arXiv:2405.01623](http://arxiv.org/abs/2405.01623)) \[[8
+([arXiv:2405.01623](http://arxiv.org/abs/2405.01623)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...23B)\]
 
 </div>
@@ -175,21 +182,18 @@ citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...23B)\]
 <div class="list">
 
 
-Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; Brcek, Adam; *et al.*,
-2025, *[Rapid stellar and binary population synthesis with COMPAS:
-methods paper II](http://dx.doi.org/10.48550/arXiv.2506.02316)*, ArXiv
-([arXiv:2506.02316](http://arxiv.org/abs/2506.02316))
-
 Schuetz, Ann-Kathrin; Migala, Alexander; **Boesky, Adam**; Poon, Alan W.
 P.; *et al.*, 2025, *[RESOLVE: Rare Event Surrogate Likelihood for
 Gravitational Wave Paleontology Parameter
 Estimation](http://dx.doi.org/10.48550/arXiv.2506.00757)*, ArXiv
-([arXiv:2506.00757](http://arxiv.org/abs/2506.00757))
+([arXiv:2506.00757](http://arxiv.org/abs/2506.00757)) \[[1
+citation](https://ui.adsabs.harvard.edu/abs/2025arXiv250600757S)\]
 
 **Boesky, Adam**; Villar, V. Ashley; Gagliano, Alexander; & Hsu, Brian,
 2025, *[SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field
 Time-Domain Surveys](http://dx.doi.org/10.48550/arXiv.2506.00121)*,
-ArXiv ([arXiv:2506.00121](http://arxiv.org/abs/2506.00121))
+ArXiv ([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[4
+citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250600121B)\]
 
 Li, Chenguang; Brenner, Jonah; **Boesky, Adam**; Ramanathan, Sharad; &
 Kreiman, Gabriel, 2024, *[Neuron-level Prediction and Noise can

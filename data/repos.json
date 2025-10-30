@@ -25,12 +25,12 @@
               "description": "COMPAS rapid binary population synthesis code",
               "url": "https://github.com/TeamCOMPAS/COMPAS",
               "homepageUrl": "http://compas.science",
-              "forkCount": 72,
+              "forkCount": 75,
               "stargazers": {
-                "totalCount": 72
+                "totalCount": 79
               },
               "watchers": {
-                "totalCount": 12
+                "totalCount": 11
               }
             }
           },
