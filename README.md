@@ -18,12 +18,11 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 ## Education
 
-## *Candidate* PhD, Harvard University
+## *Candidate* Astrophysics PhD, Harvard University
 
- *<span
-style="color: gray">Cambridge, MA</span> <span
-style="color: niceblue">Aug 2026 – Present</span>*  
-<span style="color: gray">***Subject:***</span> Astrophysics  
+
+*<span style="color: gray">Cambridge, MA</span>
+<span style="color: niceblue">Aug 2026 – Present</span>*  
 
 ## BA, Harvard University
 
@@ -40,8 +39,8 @@ Dynamical Systems
 
 ## Center for Astrophysics \| Harvard & Smithsonian
 
- *<span
-style="color: gray">Cambridge, MA</span>*  
+
+*<span style="color: gray">Cambridge, MA</span>*  
 *Berger Cosmic Transient Group* *<span style="color: niceblue">Jun 2022
 – Present</span>*
 
@@ -56,8 +55,8 @@ long-duration transients with LSST and *Roman*
 
 </div>
 
-*Villar Time-Domain Astronomy Data Lab* *<span
-style="color: niceblue">Aug 2023 – Present</span>*
+*Villar Time-Domain Astronomy Data Lab*
+*<span style="color: niceblue">Aug 2023 – Present</span>*
 
 <div class="bulletdescription">
 
@@ -69,8 +68,8 @@ preliminary website [here](http://astrotimelab.com/_pages/splash.html)
 
 ## ProDex Labs
 
- *<span style="color: gray">Brooklyn, NY</span> <span
-style="color: niceblue">Mar 2025 – Mar 2026</span>*  
+ *<span style="color: gray">Brooklyn, NY</span>
+<span style="color: niceblue">Mar 2025 – Mar 2026</span>*  
 *Founding Engineer*
 
 <div class="bulletdescription">
@@ -78,27 +77,27 @@ style="color: niceblue">Mar 2025 – Mar 2026</span>*
 Developed a general purpose discrete-event simulation engine for
 manufacturers to create digial twins of production processes
 
-Designed and implemented optimization algorithms for advanced planning
-and scheduling module
+Designed and implemented optimizers for advanced planning and scheduling
+module
 
 Integrated AI agent into application modules, enhancing user analysis
 capabilities and accelerating the user experience by $>100\times$
 
-Led the development of several application modules; managed and
-coordinated teams of engineers
+Led the development of several application modules; managed teams of
+engineers
 
 </div>
 
 ## SpaceX
 
- *<span style="color: gray">Los Angeles, CA</span> <span
-style="color: niceblue">Summers 2023, 2024</span>*  
+ *<span style="color: gray">Los Angeles, CA</span>
+<span style="color: niceblue">Summers 2023, 2024</span>*  
 *Guidance, Navigation, & Control Engineering Intern*
 
 <div class="bulletdescription">
 
 Developed physical and empirical models for high-fidelity Monte Carlo
-simulation of the Falcon rocket
+simulation of the Falcon9 and Falcon Heavy rockets
 
 Drove operational changes to promote launch vehicle reliability and
 performance
@@ -117,8 +116,8 @@ required for launch
 
 ## Harvard School of Engineering & Applied Sciences
 
- *<span
-style="color: gray">Cambridge, MA</span>*  
+
+*<span style="color: gray">Cambridge, MA</span>*  
 *Harvard C3 Policing Research Team* *<span style="color: niceblue">Jun
 2020 – Aug 2022</span>*
 
@@ -148,6 +147,10 @@ by first inferring their host’s properties
 stars / 80 forks)  
 COMPAS rapid binary population synthesis code
 [\[docs\]](http://compas.science)
+
+[**Prost**](https://github.com/alexandergagliano/Prost) — *Developer* (8
+stars / 4 forks)  
+A probabilistic host-galaxy association code.
 
 [**HOOTSim**](https://github.com/jdinovi/HOOTSim) — *Lead Developer* (2
 stars / 0 forks)  
@@ -220,8 +223,8 @@ citation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=
 <div class="list">
 
 
-*Teaching Assistant* — Harvard Physics 143a: Quantum Mechanics I <span
-style="color: niceblue">Spring 2024</span>
+*Teaching Assistant* — Harvard Physics 143a: Quantum Mechanics I
+<span style="color: niceblue">Spring 2024</span>
 
 *Teaching Assistant* — Harvard Physics 12b: Electromagnetism and
 Statistical Physics <span style="color: niceblue">Fall 2023</span>
@@ -229,9 +232,9 @@ Statistical Physics <span style="color: niceblue">Fall 2023</span>
 </div>
 
 I am currently mentoring and have mentored several students on a variety
-of projects including the following:  
-**High schoolers:** Khushi Karthikeyan (Mar 2024 — Present), Meera
-Desawale (Jul 2024 — Present), Daniel Garrett-Metz (Apr 2021 — Jun 2021)
+of projects including:  
+**High schoolers:** Khushi Karthikeyan (Mar 2024 – Present), Meera
+Desawale (Jul 2024 – Present), Daniel Garrett-Metz (Apr 2021 – Jun 2021)
 
 ## Honors, Awards, and Fellowships
 
@@ -267,8 +270,8 @@ Harvard College Research Program Fellow (\$1000), 2022
 Orange County Astronomers, Orange, CA <span style="color: niceblue">Jan
 2026</span>
 
-American Physical Society April Meeting, Sacramento, CA <span
-style="color: niceblue">Apr 2024</span>
+American Physical Society April Meeting, Sacramento, CA
+<span style="color: niceblue">Apr 2024</span>
 
 Post-Pax-VIII, Cambridge, MA <span style="color: niceblue">Aug
 2022</span>
@@ -281,14 +284,14 @@ Post-Pax-VIII, Cambridge, MA <span style="color: niceblue">Aug
 
 <div class="bulletdescription">
 
-American Astronomical Society Meeting, National Harbor, MD <span
-style="color: niceblue">Jan 2025</span>
+American Astronomical Society Meeting, National Harbor, MD
+<span style="color: niceblue">Jan 2025</span>
 
-Computational and Systems Neuroscience, Lisbon, Portugal <span
-style="color: niceblue">Mar 2024</span>
+Computational and Systems Neuroscience, Lisbon, Portugal
+<span style="color: niceblue">Mar 2024</span>
 
-Giant Magellan Telescope 2022 Science Meeting, Sedona, AZ <span
-style="color: niceblue">Sep 2022</span>
+Giant Magellan Telescope 2022 Science Meeting, Sedona, AZ
+<span style="color: niceblue">Sep 2022</span>
 
 </div>
 
@@ -311,7 +314,7 @@ LaTeX, Linux, Bash, SAOImage DS9
 
 ## Miscellaneous:
 
- Billiards, powerlifting, running, mixology, knitting,
-mountaineering, skiing, surfing, foosball
+ Billiards, skiing, running, mixology, mountaineering,
+knitting, surfing, foosball
 
 </div>
