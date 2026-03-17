@@ -20,7 +20,7 @@
       "Vigna-G{\\'o}mez, Alejandro",
       "Willcox, Reinhold"
     ],
-    "citations": 4,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-4365/adf8d0",
     "page": 43,
@@ -39,7 +39,7 @@
       "Boesky, Adam",
       "Manning, T. Andrew"
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.15635013",
     "page": null,
@@ -79,7 +79,7 @@
       "Boesky, Adam",
       "Manning, T. Andrew"
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.15397886",
     "page": null,
@@ -98,7 +98,7 @@
       "Gagliano, Alexander",
       "Hsu, Brian"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2506.00121",
     "page": null,
@@ -134,7 +134,7 @@
       "Broekgaarden, Floor S.",
       "Berger, Edo"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad7fe3",
     "page": 24,
@@ -152,7 +152,7 @@
       "Broekgaarden, Floor S.",
       "Berger, Edo"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad7fe4",
     "page": 23,

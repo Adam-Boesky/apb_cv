@@ -184,7 +184,6 @@ if __name__ == "__main__":
     with open("tex/repos.tex", "w") as f:
         f.write("\n\n".join(map(format_repo, repos)))
     selected_repos = []
-    print('HEREEE:', select_repos)
     for s in select_repos:
         for repo in repos:
             repo = repo["node"]

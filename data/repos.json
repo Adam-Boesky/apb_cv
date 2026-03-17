@@ -25,9 +25,9 @@
               "description": "COMPAS rapid binary population synthesis code",
               "url": "https://github.com/TeamCOMPAS/COMPAS",
               "homepageUrl": "http://compas.science",
-              "forkCount": 75,
+              "forkCount": 80,
               "stargazers": {
-                "totalCount": 79
+                "totalCount": 86
               },
               "watchers": {
                 "totalCount": 11
@@ -51,13 +51,13 @@
           },
           {
             "node": {
-              "name": "HOOTSim",
-              "description": "N-Body Simulator",
-              "url": "https://github.com/jdinovi/HOOTSim",
+              "name": "Prost",
+              "description": "A probabilistic host-galaxy association code. ",
+              "url": "https://github.com/alexandergagliano/Prost",
               "homepageUrl": null,
-              "forkCount": 0,
+              "forkCount": 4,
               "stargazers": {
-                "totalCount": 2
+                "totalCount": 8
               },
               "watchers": {
                 "totalCount": 1
@@ -66,13 +66,13 @@
           },
           {
             "node": {
-              "name": "RL_CMAES",
-              "description": "Implementing the covariance matrix adaptation evolution strategy in a reinforcement learning framework",
-              "url": "https://github.com/Adam-Boesky/RL_CMAES",
-              "homepageUrl": "",
+              "name": "HOOTSim",
+              "description": "N-Body Simulator",
+              "url": "https://github.com/jdinovi/HOOTSim",
+              "homepageUrl": null,
               "forkCount": 0,
               "stargazers": {
-                "totalCount": 0
+                "totalCount": 2
               },
               "watchers": {
                 "totalCount": 1

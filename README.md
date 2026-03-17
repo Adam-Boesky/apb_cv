@@ -20,9 +20,9 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 ## *Candidate* PhD, Harvard University
 
-
-*<span style="color: gray">Cambridge, MA</span>
-<span style="color: niceblue">Aug 2026 – Present</span>*  
+ *<span
+style="color: gray">Cambridge, MA</span> <span
+style="color: niceblue">Aug 2026 – Present</span>*  
 <span style="color: gray">***Subject:***</span> Astrophysics  
 
 ## BA, Harvard University
@@ -40,8 +40,8 @@ Dynamical Systems
 
 ## Center for Astrophysics \| Harvard & Smithsonian
 
-
-*<span style="color: gray">Cambridge, MA</span>*  
+ *<span
+style="color: gray">Cambridge, MA</span>*  
 *Berger Cosmic Transient Group* *<span style="color: niceblue">Jun 2022
 – Present</span>*
 
@@ -56,21 +56,43 @@ long-duration transients with LSST and *Roman*
 
 </div>
 
-*Villar Time-Domain Astronomy Data Lab*
-*<span style="color: niceblue">Aug 2023 – Present</span>*
+*Villar Time-Domain Astronomy Data Lab* *<span
+style="color: niceblue">Aug 2023 – Present</span>*
 
 <div class="bulletdescription">
 
-Developed a machine learning pipeline to rapidly classify supernovae
-using their inferred host galaxy’s properties; preliminary website
-[here](http://astrotimelab.com/_pages/splash.html)
+Developed SPLASH – a rapid photometric machine learning pipeline that
+classifies supernovae using their inferred host galaxy’s properties;
+preliminary website [here](http://astrotimelab.com/_pages/splash.html)
+
+</div>
+
+## ProDex Labs
+
+ *<span style="color: gray">Brooklyn, NY</span> <span
+style="color: niceblue">Mar 2025 – Mar 2026</span>*  
+*Founding Engineer*
+
+<div class="bulletdescription">
+
+Developed a general purpose discrete-event simulation engine for
+manufacturers to create digial twins of production processes
+
+Designed and implemented optimization algorithms for advanced planning
+and scheduling module
+
+Integrated AI agent into application modules, enhancing user analysis
+capabilities and accelerating the user experience by $>100\times$
+
+Led the development of several application modules; managed and
+coordinated teams of engineers
 
 </div>
 
 ## SpaceX
 
- *<span style="color: gray">Los Angeles, CA</span>
-<span style="color: niceblue">Summers 2023, 2024</span>*  
+ *<span style="color: gray">Los Angeles, CA</span> <span
+style="color: niceblue">Summers 2023, 2024</span>*  
 *Guidance, Navigation, & Control Engineering Intern*
 
 <div class="bulletdescription">
@@ -95,18 +117,8 @@ required for launch
 
 ## Harvard School of Engineering & Applied Sciences
 
-
-*<span style="color: gray">Cambridge, MA</span>*  
-*Ramanathan Lab* *<span style="color: niceblue">Jan 2023 – Jul
-2024</span>*
-
-<div class="bulletdescription">
-
-Developed a biologically-realizable computational architecture for basic
-intelligence
-
-</div>
-
+ *<span
+style="color: gray">Cambridge, MA</span>*  
 *Harvard C3 Policing Research Team* *<span style="color: niceblue">Jun
 2020 – Aug 2022</span>*
 
@@ -132,8 +144,8 @@ Supernova classification Pipeline Leveraging Attributes of Supernova
 Hosts (SPLASH): A machine learning pipeline that classifies supernovae
 by first inferring their host’s properties
 
-[**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (79
-stars / 75 forks)  
+[**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (86
+stars / 80 forks)  
 COMPAS rapid binary population synthesis code
 [\[docs\]](http://compas.science)
 
@@ -145,7 +157,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 3 / first author: 3 / citations: 37 / h-index: 4 (2025-10-29)
+refereed: 3 / first author: 3 / citations: 50 / h-index: 4 (2026-03-17)
 
 ### Refereed publications
 
@@ -156,7 +168,7 @@ Team Compas; Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; *et al.*,
 2025, *[Rapid Stellar and Binary Population Synthesis with COMPAS:
 Methods Paper II](http://dx.doi.org/10.3847/1538-4365/adf8d0)*, The
 Astrophysical Journal Supplement Series, **280**, 43
-([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[4
+([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T)\]
 
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024,
@@ -164,7 +176,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T)\]
 Isolated Massive Binary
 Stars](http://dx.doi.org/10.3847/1538-4357/ad7fe3)*, The Astrophysical
 Journal, **976**, 24
-([arXiv:2405.01630](http://arxiv.org/abs/2405.01630)) \[[14
+([arXiv:2405.01630](http://arxiv.org/abs/2405.01630)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...24B)\]
 
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024, *[The
@@ -172,7 +184,7 @@ Binary Black Hole Merger Rate Deviates from the Cosmic Star Formation
 Rate: A Tug of War between Metallicity and Delay
 Times](http://dx.doi.org/10.3847/1538-4357/ad7fe4)*, The Astrophysical
 Journal, **976**, 23
-([arXiv:2405.01623](http://arxiv.org/abs/2405.01623)) \[[13
+([arXiv:2405.01623](http://arxiv.org/abs/2405.01623)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...23B)\]
 
 </div>
@@ -192,7 +204,7 @@ citation](https://ui.adsabs.harvard.edu/abs/2025arXiv250600757S)\]
 **Boesky, Adam**; Villar, V. Ashley; Gagliano, Alexander; & Hsu, Brian,
 2025, *[SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field
 Time-Domain Surveys](http://dx.doi.org/10.48550/arXiv.2506.00121)*,
-ArXiv ([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[4
+ArXiv ([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250600121B)\]
 
 Li, Chenguang; Brenner, Jonah; **Boesky, Adam**; Ramanathan, Sharad; &
@@ -208,8 +220,8 @@ citation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=
 <div class="list">
 
 
-*Teaching Assistant* — Harvard Physics 143a: Quantum Mechanics I
-<span style="color: niceblue">Spring 2024</span>
+*Teaching Assistant* — Harvard Physics 143a: Quantum Mechanics I <span
+style="color: niceblue">Spring 2024</span>
 
 *Teaching Assistant* — Harvard Physics 12b: Electromagnetism and
 Statistical Physics <span style="color: niceblue">Fall 2023</span>
@@ -252,11 +264,11 @@ Harvard College Research Program Fellow (\$1000), 2022
 
 <div class="bulletdescription">
 
-Orange County Astronomers, Orange, CA *Upcoming*
-<span style="color: niceblue">Jan 2026</span>
+Orange County Astronomers, Orange, CA <span style="color: niceblue">Jan
+2026</span>
 
-American Physical Society April Meeting, Sacramento, CA
-<span style="color: niceblue">Apr 2024</span>
+American Physical Society April Meeting, Sacramento, CA <span
+style="color: niceblue">Apr 2024</span>
 
 Post-Pax-VIII, Cambridge, MA <span style="color: niceblue">Aug
 2022</span>
@@ -269,14 +281,14 @@ Post-Pax-VIII, Cambridge, MA <span style="color: niceblue">Aug
 
 <div class="bulletdescription">
 
-American Astronomical Society Meeting, National Harbor, MD
-<span style="color: niceblue">Jan 2025</span>
+American Astronomical Society Meeting, National Harbor, MD <span
+style="color: niceblue">Jan 2025</span>
 
-Computational and Systems Neuroscience, Lisbon, Portugal
-<span style="color: niceblue">Mar 2024</span>
+Computational and Systems Neuroscience, Lisbon, Portugal <span
+style="color: niceblue">Mar 2024</span>
 
-Giant Magellan Telescope 2022 Science Meeting, Sedona, AZ
-<span style="color: niceblue">Sep 2022</span>
+Giant Magellan Telescope 2022 Science Meeting, Sedona, AZ <span
+style="color: niceblue">Sep 2022</span>
 
 </div>
 
