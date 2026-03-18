@@ -160,7 +160,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 3 / first author: 3 / citations: 50 / h-index: 4 (2026-03-17)
+refereed: 3 / first author: 3 / citations: 48 / h-index: 4 (2026-03-18)
 
 ### Refereed publications
 
@@ -179,7 +179,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T)\]
 Isolated Massive Binary
 Stars](http://dx.doi.org/10.3847/1538-4357/ad7fe3)*, The Astrophysical
 Journal, **976**, 24
-([arXiv:2405.01630](http://arxiv.org/abs/2405.01630)) \[[15
+([arXiv:2405.01630](http://arxiv.org/abs/2405.01630)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...24B)\]
 
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024, *[The
@@ -207,7 +207,7 @@ citation](https://ui.adsabs.harvard.edu/abs/2025arXiv250600757S)\]
 **Boesky, Adam**; Villar, V. Ashley; Gagliano, Alexander; & Hsu, Brian,
 2025, *[SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field
 Time-Domain Surveys](http://dx.doi.org/10.48550/arXiv.2506.00121)*,
-ArXiv ([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[5
+ArXiv ([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250600121B)\]
 
 Li, Chenguang; Brenner, Jonah; **Boesky, Adam**; Ramanathan, Sharad; &
