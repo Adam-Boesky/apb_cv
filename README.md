@@ -160,12 +160,18 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 3 / first author: 3 / citations: 48 / h-index: 4 (2026-03-22)
+refereed: 4 / first author: 4 / citations: 48 / h-index: 4 (2026-03-23)
 
 ### Refereed publications
 
 <div class="list">
 
+
+**Boesky, Adam**; Villar, V. Ashley; Gagliano, Alexander; Nugent, Anya;
+& Hsu, Brian, 2026, *[SPLASH: A Rapid Host-based Supernova Classifier
+for Wide-field Time-domain
+Surveys](http://dx.doi.org/10.3847/1538-4365/ae4350)*, The Astrophysical
+Journal Supplement Series, **283**, 55
 
 Team Compas; Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; *et al.*,
 2025, *[Rapid Stellar and Binary Population Synthesis with COMPAS:

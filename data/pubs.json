@@ -1,5 +1,25 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Boesky, Adam",
+      "Villar, V. Ashley",
+      "Gagliano, Alexander",
+      "Nugent, Anya",
+      "Hsu, Brian"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4365/ae4350",
+    "page": 55,
+    "pub": "The Astrophysical Journal Supplement Series",
+    "pubdate": "2026-04-00",
+    "title": "SPLASH: A Rapid Host-based Supernova Classifier for Wide-field Time-domain Surveys",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJS..283...55B",
+    "volume": "283",
+    "year": "2026"
+  },
+  {
     "arxiv": "2506.02316",
     "authors": [
       "Team Compas",
