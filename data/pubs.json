@@ -111,25 +111,6 @@
     "year": "2025"
   },
   {
-    "arxiv": "2506.00121",
-    "authors": [
-      "Boesky, Adam",
-      "Villar, V. Ashley",
-      "Gagliano, Alexander",
-      "Hsu, Brian"
-    ],
-    "citations": 4,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2506.00121",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-05-00",
-    "title": "SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field Time-Domain Surveys",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250600121B",
-    "volume": null,
-    "year": "2025"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Boesky, Adam",

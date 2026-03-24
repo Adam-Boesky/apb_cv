@@ -160,7 +160,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 4 / citations: 48 / h-index: 4 (2026-03-23)
+refereed: 4 / first author: 3 / citations: 44 / h-index: 3 (2026-03-24)
 
 ### Refereed publications
 
@@ -209,12 +209,6 @@ Gravitational Wave Paleontology Parameter
 Estimation](http://dx.doi.org/10.48550/arXiv.2506.00757)*, ArXiv
 ([arXiv:2506.00757](http://arxiv.org/abs/2506.00757)) \[[1
 citation](https://ui.adsabs.harvard.edu/abs/2025arXiv250600757S)\]
-
-**Boesky, Adam**; Villar, V. Ashley; Gagliano, Alexander; & Hsu, Brian,
-2025, *[SPLASH: A Rapid Host-Based Supernova Classifier for Wide-Field
-Time-Domain Surveys](http://dx.doi.org/10.48550/arXiv.2506.00121)*,
-ArXiv ([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[4
-citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250600121B)\]
 
 Li, Chenguang; Brenner, Jonah; **Boesky, Adam**; Ramanathan, Sharad; &
 Kreiman, Gabriel, 2024, *[Neuron-level Prediction and Noise can
