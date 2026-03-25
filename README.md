@@ -160,7 +160,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 44 / h-index: 3 (2026-03-24)
+refereed: 4 / first author: 3 / citations: 44 / h-index: 3 (2026-03-25)
 
 ### Refereed publications
 
@@ -172,6 +172,7 @@ refereed: 4 / first author: 3 / citations: 44 / h-index: 3 (2026-03-24)
 for Wide-field Time-domain
 Surveys](http://dx.doi.org/10.3847/1538-4365/ae4350)*, The Astrophysical
 Journal Supplement Series, **283**, 55
+([arXiv:2506.00121](http://arxiv.org/abs/2506.00121))
 
 Team Compas; Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; *et al.*,
 2025, *[Rapid Stellar and Binary Population Synthesis with COMPAS:
