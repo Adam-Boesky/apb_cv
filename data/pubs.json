@@ -20,6 +20,25 @@
     "year": "2026"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Gagliano, Alex",
+      "de Soto, Kaylee",
+      "Boesky, Adam",
+      "Manning, T. Andrew"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.17172447",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2025-09-21",
+    "title": "alexandergagliano/Prost: v1.2.13",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025zndo..17172447G",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2506.02316",
     "authors": [
       "Team Compas",
@@ -99,7 +118,7 @@
       "Boesky, Adam",
       "Manning, T. Andrew"
     ],
-    "citations": 6,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.15397886",
     "page": null,
