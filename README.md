@@ -243,7 +243,9 @@ Desawale (Jul 2024 – Present), Daniel Garrett-Metz (Apr 2021 – Jun 2021)
 <div class="list">
 
 
-*Honorable Mention* NSF Graduate Research Funding Program, 2025
+NSF Graduate Research Fellowship Program, 2026
+
+*Honorable Mention* NSF Graduate Research Fellowship Program, 2025
 
 *Finalist* Hertz Fellowship, 2025
 
