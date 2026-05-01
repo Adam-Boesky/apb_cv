@@ -148,7 +148,7 @@ stars / 81 forks)
 COMPAS rapid binary population synthesis code
 [\[docs\]](http://compas.science)
 
-[**Prost**](https://github.com/alexandergagliano/Prost) — *Developer* (8
+[**Prost**](https://github.com/alexandergagliano/Prost) — *Developer* (9
 stars / 4 forks)  
 A probabilistic host-galaxy association code.
 
@@ -160,7 +160,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 51 / h-index: 4 (2026-04-30)
+refereed: 4 / first author: 3 / citations: 51 / h-index: 4 (2026-05-01)
 
 ### Refereed publications
 
