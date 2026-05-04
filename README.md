@@ -143,7 +143,7 @@ Supernova classification Pipeline Leveraging Attributes of Supernova
 Hosts (SPLASH): A machine learning pipeline that classifies supernovae
 by first inferring their host’s properties
 
-[**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (89
+[**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (90
 stars / 81 forks)  
 COMPAS rapid binary population synthesis code
 [\[docs\]](http://compas.science)
@@ -160,7 +160,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 52 / h-index: 4 (2026-05-03)
+refereed: 4 / first author: 3 / citations: 53 / h-index: 4 (2026-05-04)
 
 ### Refereed publications
 
@@ -187,7 +187,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T)\]
 Isolated Massive Binary
 Stars](http://dx.doi.org/10.3847/1538-4357/ad7fe3)*, The Astrophysical
 Journal, **976**, 24
-([arXiv:2405.01630](http://arxiv.org/abs/2405.01630)) \[[14
+([arXiv:2405.01630](http://arxiv.org/abs/2405.01630)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...24B)\]
 
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024, *[The
