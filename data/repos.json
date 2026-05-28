@@ -81,16 +81,16 @@
           },
           {
             "node": {
-              "name": "Exploring_Parameter_Space",
-              "description": "Investigating the redshift evolution of the compact object merger rate",
-              "url": "https://github.com/Adam-Boesky/Exploring_Parameter_Space",
-              "homepageUrl": "",
+              "name": "ztforce",
+              "description": "PSF photometry on ZTF science images, calibrated against PanSTARRS",
+              "url": "https://github.com/Adam-Boesky/ztforce",
+              "homepageUrl": null,
               "forkCount": 0,
               "stargazers": {
-                "totalCount": 1
+                "totalCount": 0
               },
               "watchers": {
-                "totalCount": 1
+                "totalCount": 0
               }
             }
           }
