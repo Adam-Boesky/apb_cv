@@ -143,6 +143,10 @@ Supernova classification Pipeline Leveraging Attributes of Supernova
 Hosts (SPLASH): A machine learning pipeline that classifies supernovae
 by first inferring their host’s properties
 
+[**ztforce**](https://github.com/Adam-Boesky/ztforce) — *Lead Developer*
+(0 stars / 0 forks)  
+PSF photometry on ZTF science images, calibrated against PanSTARRS
+
 [**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (90
 stars / 81 forks)  
 COMPAS rapid binary population synthesis code
@@ -160,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 53 / h-index: 4 (2026-05-27)
+refereed: 4 / first author: 3 / citations: 54 / h-index: 4 (2026-05-28)
 
 ### Refereed publications
 
@@ -179,7 +183,7 @@ Team Compas; Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; *et al.*,
 2025, *[Rapid Stellar and Binary Population Synthesis with COMPAS:
 Methods Paper II](http://dx.doi.org/10.3847/1538-4365/adf8d0)*, The
 Astrophysical Journal Supplement Series, **280**, 43
-([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[18
+([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T)\]
 
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024,
