@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 54 / h-index: 4 (2026-05-30)
+refereed: 4 / first author: 3 / citations: 57 / h-index: 4 (2026-05-31)
 
 ### Refereed publications
 
@@ -176,14 +176,14 @@ refereed: 4 / first author: 3 / citations: 54 / h-index: 4 (2026-05-30)
 for Wide-field Time-domain
 Surveys](http://dx.doi.org/10.3847/1538-4365/ae4350)*, The Astrophysical
 Journal Supplement Series, **283**, 55
-([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[4
+([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJS..283...55B)\]
 
 Team Compas; Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; *et al.*,
 2025, *[Rapid Stellar and Binary Population Synthesis with COMPAS:
 Methods Paper II](http://dx.doi.org/10.3847/1538-4365/adf8d0)*, The
 Astrophysical Journal Supplement Series, **280**, 43
-([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[19
+([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T)\]
 
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024,
@@ -213,8 +213,8 @@ Schuetz, Ann-Kathrin; Migala, Alexander; **Boesky, Adam**; Poon, Alan W.
 P.; *et al.*, 2025, *[RESOLVE: Rare Event Surrogate Likelihood for
 Gravitational Wave Paleontology Parameter
 Estimation](http://dx.doi.org/10.48550/arXiv.2506.00757)*, ArXiv
-([arXiv:2506.00757](http://arxiv.org/abs/2506.00757)) \[[1
-citation](https://ui.adsabs.harvard.edu/abs/2025arXiv250600757S)\]
+([arXiv:2506.00757](http://arxiv.org/abs/2506.00757)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2025arXiv250600757S)\]
 
 Li, Chenguang; Brenner, Jonah; **Boesky, Adam**; Ramanathan, Sharad; &
 Kreiman, Gabriel, 2024, *[Neuron-level Prediction and Noise can
