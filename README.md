@@ -144,7 +144,7 @@ Hosts (SPLASH): A machine learning pipeline that classifies supernovae
 by first inferring their host’s properties
 
 [**ztforce**](https://github.com/Adam-Boesky/ztforce) — *Lead Developer*
-(0 stars / 0 forks)  
+(1 stars / 0 forks)  
 PSF photometry on ZTF science images, calibrated against PanSTARRS
 
 [**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (90
@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 57 / h-index: 4 (2026-06-03)
+refereed: 4 / first author: 3 / citations: 58 / h-index: 4 (2026-06-04)
 
 ### Refereed publications
 
@@ -176,7 +176,7 @@ refereed: 4 / first author: 3 / citations: 57 / h-index: 4 (2026-06-03)
 for Wide-field Time-domain
 Surveys](http://dx.doi.org/10.3847/1538-4365/ae4350)*, The Astrophysical
 Journal Supplement Series, **283**, 55
-([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[5
+([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJS..283...55B)\]
 
 Team Compas; Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; *et al.*,
