@@ -148,12 +148,12 @@ by first inferring their host’s properties
 PSF photometry on ZTF science images, calibrated against PanSTARRS
 
 [**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (90
-stars / 81 forks)  
+stars / 80 forks)  
 COMPAS rapid binary population synthesis code
 [\[docs\]](http://compas.science)
 
 [**Prost**](https://github.com/alexandergagliano/Prost) — *Developer* (9
-stars / 4 forks)  
+stars / 5 forks)  
 A probabilistic host-galaxy association code.
 
 [**HOOTSim**](https://github.com/jdinovi/HOOTSim) — *Lead Developer* (2
@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 58 / h-index: 4 (2026-06-06)
+refereed: 4 / first author: 3 / citations: 58 / h-index: 4 (2026-06-07)
 
 ### Refereed publications
 
