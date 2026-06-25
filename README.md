@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 58 / h-index: 4 (2026-06-24)
+refereed: 4 / first author: 3 / citations: 57 / h-index: 4 (2026-06-25)
 
 ### Refereed publications
 
@@ -183,7 +183,7 @@ Team Compas; Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; *et al.*,
 2025, *[Rapid Stellar and Binary Population Synthesis with COMPAS:
 Methods Paper II](http://dx.doi.org/10.3847/1538-4365/adf8d0)*, The
 Astrophysical Journal Supplement Series, **280**, 43
-([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[20
+([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T)\]
 
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024,
