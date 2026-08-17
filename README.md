@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 62 / h-index: 4 (2026-08-16)
+refereed: 4 / first author: 3 / citations: 63 / h-index: 4 (2026-08-17)
 
 ### Refereed publications
 
@@ -176,7 +176,7 @@ refereed: 4 / first author: 3 / citations: 62 / h-index: 4 (2026-08-16)
 for Wide-field Time-domain
 Surveys](http://dx.doi.org/10.3847/1538-4365/ae4350)*, The Astrophysical
 Journal Supplement Series, **283**, 55
-([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[7
+([arXiv:2506.00121](http://arxiv.org/abs/2506.00121)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJS..283...55B)\]
 
 Team Compas; Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; *et al.*,
