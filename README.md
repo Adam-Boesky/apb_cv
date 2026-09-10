@@ -148,7 +148,7 @@ by first inferring their host’s properties
 PSF photometry on ZTF science images, calibrated against PanSTARRS
 
 [**COMPAS**](https://github.com/TeamCOMPAS/COMPAS) — *Developer* (91
-stars / 83 forks)  
+stars / 84 forks)  
 COMPAS rapid binary population synthesis code
 [\[docs\]](http://compas.science)
 
@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 63 / h-index: 4 (2026-09-09)
+refereed: 4 / first author: 3 / citations: 63 / h-index: 4 (2026-09-10)
 
 ### Refereed publications
 
