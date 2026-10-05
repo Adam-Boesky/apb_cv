@@ -18,7 +18,7 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 ## Education
 
-## *Candidate* Astrophysics PhD, Harvard University
+## Astrophysics PhD Student, Harvard University
 
 
 *<span style="color: gray">Cambridge, MA</span>
