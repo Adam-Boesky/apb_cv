@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 66 / h-index: 4 (2026-10-10)
+refereed: 4 / first author: 3 / citations: 67 / h-index: 4 (2026-10-11)
 
 ### Refereed publications
 
@@ -191,7 +191,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T)\]
 Isolated Massive Binary
 Stars](http://dx.doi.org/10.3847/1538-4357/ad7fe3)*, The Astrophysical
 Journal, **976**, 24
-([arXiv:2405.01630](http://arxiv.org/abs/2405.01630)) \[[19
+([arXiv:2405.01630](http://arxiv.org/abs/2405.01630)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...24B)\]
 
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024, *[The
