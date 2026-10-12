@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 67 / h-index: 4 (2026-10-11)
+refereed: 4 / first author: 3 / citations: 67 / h-index: 4 (2026-10-12)
 
 ### Refereed publications
 
@@ -239,8 +239,9 @@ Statistical Physics <span style="color: niceblue">Fall 2023</span>
 
 I am currently mentoring and have mentored several students on a variety
 of projects including:  
-**High schoolers:** Khushi Karthikeyan (Mar 2024 – Present), Meera
-Desawale (Jul 2024 – Present), Daniel Garrett-Metz (Apr 2021 – Jun 2021)
+**High schoolers:** Khushi Karthikeyan (Mar 2024 – Present; *2026
+Regeneron Science Talent Search Finalist*), Meera Desawale (Jul 2024 –
+Present), Daniel Garrett-Metz (Apr 2021 – Jun 2021)
 
 ## Honors, Awards, and Fellowships
 
