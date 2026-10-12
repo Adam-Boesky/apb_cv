@@ -243,6 +243,16 @@ of projects including:
 Regeneron Science Talent Search Finalist*), Meera Desawale (Jul 2024 –
 Present), Daniel Garrett-Metz (Apr 2021 – Jun 2021)
 
+## Professional Service
+
+<div class="list">
+
+
+*Referee* — The Astrophysical Journal <span style="color: niceblue">2026
+– Present</span>
+
+</div>
+
 ## Honors, Awards, and Fellowships
 
 <div class="list">
