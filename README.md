@@ -68,7 +68,7 @@ preliminary website [here](http://astrotimelab.com/_pages/splash.html)
 
 ## ProDex Labs
 
- *<span style="color: gray">Brooklyn, NY</span>
+ *<span style="color: gray">New York, NY</span>
 <span style="color: niceblue">Mar 2025 – Mar 2026</span>*  
 *Founding Engineer*
 
