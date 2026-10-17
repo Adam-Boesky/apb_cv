@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 67 / h-index: 4 (2026-10-16)
+refereed: 4 / first author: 3 / citations: 70 / h-index: 4 (2026-10-17)
 
 ### Refereed publications
 
@@ -183,7 +183,7 @@ Team Compas; Mandel, Ilya; Riley, Jeff; **Boesky, Adam**; *et al.*,
 2025, *[Rapid Stellar and Binary Population Synthesis with COMPAS:
 Methods Paper II](http://dx.doi.org/10.3847/1538-4365/adf8d0)*, The
 Astrophysical Journal Supplement Series, **280**, 43
-([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[20
+([arXiv:2506.02316](http://arxiv.org/abs/2506.02316)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...43T)\]
 
 **Boesky, Adam**; Broekgaarden, Floor S.; & Berger, Edo, 2024,
@@ -199,7 +199,7 @@ Binary Black Hole Merger Rate Deviates from the Cosmic Star Formation
 Rate: A Tug of War between Metallicity and Delay
 Times](http://dx.doi.org/10.3847/1538-4357/ad7fe4)*, The Astrophysical
 Journal, **976**, 23
-([arXiv:2405.01623](http://arxiv.org/abs/2405.01623)) \[[16
+([arXiv:2405.01623](http://arxiv.org/abs/2405.01623)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...23B)\]
 
 </div>
