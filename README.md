@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 94 / h-index: 4 (2026-11-14)
+refereed: 4 / first author: 3 / citations: 95 / h-index: 4 (2026-11-15)
 
 ### Refereed publications
 
@@ -199,7 +199,7 @@ Binary Black Hole Merger Rate Deviates from the Cosmic Star Formation
 Rate: A Tug of War between Metallicity and Delay
 Times](http://dx.doi.org/10.3847/1538-4357/ad7fe4)*, The Astrophysical
 Journal, **976**, 23
-([arXiv:2405.01623](http://arxiv.org/abs/2405.01623)) \[[22
+([arXiv:2405.01623](http://arxiv.org/abs/2405.01623)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...23B)\]
 
 </div>
