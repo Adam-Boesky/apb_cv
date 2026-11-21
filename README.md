@@ -164,7 +164,7 @@ N-Body Simulator
 
 ## Publications
 
-refereed: 4 / first author: 3 / citations: 95 / h-index: 4 (2026-11-20)
+refereed: 4 / first author: 3 / citations: 95 / h-index: 4 (2026-11-21)
 
 ### Refereed publications
 
